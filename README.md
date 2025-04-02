@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm William Jones.
 🚀 **DevOps Engineer | Full-Stack Developer**  
 
 After years of building full-stack applications, I expanded into **DevOps & cloud automation** to help businesses deploy, scale, and manage their apps seamlessly.  
@@ -26,4 +26,4 @@ After years of building full-stack applications, I expanded into **DevOps & clou
 🔗 [Portfolio Website](Your Portfolio Link)  
 🔗 [Upwork Profile](Your Upwork Profile)  
 
-💬 **Need help with cloud deployments or full-stack development? Let’s talk!** 🚀  
+💬 **Need help with cloud deployments or full-stack development? Please contact with me!** 🚀  
